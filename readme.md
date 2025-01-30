@@ -2,7 +2,7 @@
 This is the repository for the two challenges of the Artificial Neural Networks and Deep Learning course held at Politecnico di Milano.
 
 ### 1) Image Classification Challenge - Blood cells classification🦠
-Given a dataset of blood cells (96x96, RGB), the goal of the challenge is to classify them according to 8 classes.
+Given a [dataset](https://www.kaggle.com/datasets/francescolomastro01/an2dl-2024-2025-challenge-1) of blood cells (96x96, RGB), the goal of the challenge is to classify them according to 8 classes.
 
 <div align="center">
 
@@ -34,7 +34,7 @@ Given a dataset of blood cells (96x96, RGB), the goal of the challenge is to cla
 
 ### 2) Image Segmentation Challenge - Mars image segmentation 👽
 
-Given a dataset of Mars landscapes captured by different Mars Rovers (64x128, Grayscale), the task involves to produce a same-size image segmentation.
+Given a [dataset](https://www.kaggle.com/competitions/an-2-dl-2024-2025-homework-2/data) of Mars landscapes captured by different Mars Rovers (64x128, Grayscale), the task involves to produce a same-size image segmentation.
 
 <div align="center">
   
