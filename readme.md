@@ -6,7 +6,7 @@ Given a dataset of blood cells (96x96, RGB), the goal of the challenge is to cla
 
 <div align="center">
 
-![alt text](images_folder/image.png)
+![alt text](images_folder/challenge1_image.png)
 
 </div>
 
@@ -24,8 +24,9 @@ Given a dataset of blood cells (96x96, RGB), the goal of the challenge is to cla
 - 6: Neutrophil
 - 7: Platelet 
 
+🐍 This repository contains all [python notebooks](/Challenge%201%20-%20Image%20Classification/Notebooks/) we used 
 
-📚 A final [report](/Challenge%201%20-%20Image%20Classification/Report_Challenge_1_ANNDL.pdf) is available in which all the phases of the project are described
+📚 This repository contains a final [report](/Challenge%201%20-%20Image%20Classification/Report_Challenge_1_ANNDL.pdf) is available in which all the phases of the project are described
 
 🏆 At the end of the challenge, we reached an accuracy of 0.86 on the real Test set. We obtained a score of 5.5/5.5 for this challenge. 
 
@@ -51,6 +52,8 @@ Given a dataset of Mars landscapes captured by different Mars Rovers (64x128, Gr
 - 2: Bedrock
 - 3: Sand
 - 4: Big Rock
+
+🐍 This repository contains all [python notebooks](/Challenge%202%20-%20Image%20Segmentation/Notebooks/) we used 
 
 📚 A final [report](/Challenge%202%20-%20Image%20Segmentation/Report_challenge_2_ANNDL.pdf) is available in which all the phases of the project are described
 
